@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10ce73b7.css",
+    "main.js": "/static/js/main.8f4e618f.js",
+    "static/media/about.png": "/static/media/about.5d2e5b03aace78f25877.png",
+    "static/media/smart_street_light.png": "/static/media/smart_street_light.eef6f45ac5ac54066927.png",
+    "static/media/bg_img_3.png": "/static/media/bg_img_3.a454e4e0b677ca2d9d71.png",
+    "static/media/taxi.jpg": "/static/media/taxi.d622c7906d0646c4567c.jpg",
+    "static/media/Tamil_Resume.pdf": "/static/media/Tamil_Resume.c736cfccdce2c7381893.pdf",
+    "static/media/resume_2.png": "/static/media/resume_2.ee9ddea98b41da8429d2.png",
+    "static/media/contact.jpg": "/static/media/contact.0341ba16e998f17d02a4.jpg",
+    "index.html": "/index.html",
+    "main.10ce73b7.css.map": "/static/css/main.10ce73b7.css.map",
+    "main.8f4e618f.js.map": "/static/js/main.8f4e618f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10ce73b7.css",
+    "static/js/main.8f4e618f.js"
+  ]
+}
